@@ -1,0 +1,121 @@
+.MainBlock {
+    width: 1588px;
+    height: 1174px;
+    flex-shrink: 0;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 100px;
+    margin-top: 300px;
+    margin-bottom: 160px;
+}
+
+.firstMainBlock {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 100px;
+}
+
+.Zagalovok {
+    display: flex;
+    width: 1253px;
+    height: 60px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #141414;
+    font-size: 48px;
+    font-family: Orchidea Pro;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 130%;
+    text-transform: uppercase;
+}
+
+.FirstBlockComponent {
+    display: flex;
+    width: 1588px;
+    height: 480px;
+    justify-content: space-between;
+}
+
+.LeftImage {
+    width: 860px;
+    height: 480px;
+    flex-shrink: 0;
+}
+
+.FirstTextBlock {
+    display: flex;
+    width: 600px;
+    height: 335px;
+    flex-shrink: 0;
+    flex-direction: column;
+}
+
+.ZagolovokH2 {
+    display: flex;
+    width: 600px;
+    height: 160px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #141414;
+    font-size: 48px;
+    font-family: Orchidea Pro;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 110%;
+}
+
+.FirstText {
+    display: flex;
+    width: 600px;
+    height: 150px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #141414;
+    font-size: 18px;
+    font-family: Manrope;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 130%;
+}
+
+.SecondBlockComponent {
+    display: flex;
+    width: 1323px;
+    height: 411px;
+    justify-content: space-between;
+}
+
+.SecondTextBlock {
+    display: flex;
+    width: 600px;
+    height: 335px;
+    flex-shrink: 0;
+    flex-direction: column;
+}
+
+.SecondText {
+    display: flex;
+    width: 600px;
+    height: 150px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #141414;
+    font-size: 18px;
+    font-family: Manrope;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 130%;
+}
+
+.RigthImage {
+    width: 599px;
+    height: 411px;
+    flex-shrink: 0;
+}
