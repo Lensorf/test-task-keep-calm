@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-task-keep-calm/static/css/main.cfe8a0a8.css",
+    "main.js": "/test-task-keep-calm/static/js/main.0c2dcf1c.js",
+    "index.html": "/test-task-keep-calm/index.html",
+    "main.cfe8a0a8.css.map": "/test-task-keep-calm/static/css/main.cfe8a0a8.css.map",
+    "main.0c2dcf1c.js.map": "/test-task-keep-calm/static/js/main.0c2dcf1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfe8a0a8.css",
+    "static/js/main.0c2dcf1c.js"
+  ]
+}
